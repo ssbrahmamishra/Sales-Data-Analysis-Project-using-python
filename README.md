@@ -1,5 +1,6 @@
 Analysis
 This project focuses on analyzing sales data to identify key business insights such as top customers, top-performing states, and customer behavior based on gender and age group. The goal is to help businesses make data-driven decisions.
+<img width="1390" height="632" alt="image" src="https://github.com/user-attachments/assets/693b6c48-e57b-4fca-aef6-7da5061c4e77" />
 
  Objectives
 Identify Top Selling Customers
